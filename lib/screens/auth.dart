@@ -190,7 +190,7 @@ class _AuthScreenState extends State<AuthScreen> {
                           child: Text(
                             _isLogin
                                 ? 'Create new account'
-                                : 'I already have an account',
+                                : 'I already have an account Login',
                           ),
                         ),
                       ],
